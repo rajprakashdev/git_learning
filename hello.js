@@ -15,3 +15,10 @@ console.log("Thank you for your purchase!");
 submitButton();
 pay();
 
+function pay() {
+    console.log("Payment processed successfully!");
+}
+
+function cancel() {
+    console.log("Payment canceled.");
+}
