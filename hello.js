@@ -13,5 +13,7 @@ const pay = () =>{
     console.log("Payment successful!");
 }
 
+console.log("Thank you for your purchase!");
+
 submitButton();
 pay();
