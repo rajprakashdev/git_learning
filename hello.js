@@ -22,5 +22,3 @@ pay();
 function pay() {
     console.log("Payment processed successfully!");
 }
-
-
