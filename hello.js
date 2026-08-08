@@ -22,3 +22,9 @@ pay();
 function pay() {
     console.log("Payment processed successfully!");
 }
+
+
+// function adding listitems
+function addListItem(item) {
+    console.log(`Item added: ${item}`);
+}
