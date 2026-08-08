@@ -22,3 +22,8 @@ pay();
 function pay() {
     console.log("Payment processed successfully!");
 }
+
+// adding new feature to the code
+const newFeature = () => {
+    console.log("New feature added!");
+}
